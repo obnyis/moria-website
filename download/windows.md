@@ -15,7 +15,7 @@ Requires [Prism Launcher](https://prismlauncher.org/download/) to run
 
 Requires [Java 17](https://adoptium.net/) to run - select the Temurin 17 LTS from Adoptium
 
-<a class="button size-large" href="Moria-1.20.1-modpack.zip">Modpack (.zip)</a>
+<a class="button size-large" href="Moria-1.20.1.zip">Modpack (.zip)</a>
 
 From Prism Launcher select "Settings" > "Accounts" > "Add Microsoft" and follow the instructions to set up your account.
 

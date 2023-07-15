@@ -76,7 +76,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
   eleventyConfig.addPassthroughCopy("src/_redirects"); // Netlify redirects
-  eleventyConfig.addPassthroughCopy("src/download/Moria-1.20.1-modpack.zip");
+  eleventyConfig.addPassthroughCopy("src/download/Moria-1.20.1.zip");
   eleventyConfig.addPassthroughCopy({
     "node_modules/@fontsource/inter": "assets/fonts/inter",
   });
