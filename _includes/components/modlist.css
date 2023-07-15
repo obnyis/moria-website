@@ -1,0 +1,72 @@
+.modlist-tab-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0;
+    border-radius: 1em 1em 0 0;
+    background-color: var(--disabled);
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.modlist-tab-list li {
+    flex-grow: 1;
+    display: block;
+}
+
+.modlist-tab-list a {
+    color: var(--primary-text);
+    background-color: var(--accent);
+    font-size: 1.2em;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    padding: 0.75em 0.5em;
+    border-radius: 1em 1em 0 0;
+}
+
+.modlist-tab-list a:hover {
+    background-color: var(--accent-light);
+}
+
+.modlist-tab-list i {
+    color: var(--primary-text);
+    font-size: 1.2em;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-right: 0.25em;
+}
+
+.modlist-tab-active a {
+    background-color: var(--background);
+}
+
+.modlist-content {
+    background-color: var(--background);
+    padding: 1em;
+    border-radius: 0 0 1em 1em;
+}
+
+.modlist-content .column div {
+    width: 100%;
+}
+
+.modlist-content .button {
+    width: 100%;
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+}
+
+@media (min-width: 64em) {
+    .modlist-tab-list a {
+        border-radius: 1rem 1rem 0 0;
+    }
+
+    .modlist-content .column div {
+        width: 80%;
+    }
+}

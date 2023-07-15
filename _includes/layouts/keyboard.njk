@@ -1,0 +1,14 @@
+---
+layout: layouts/main.njk
+eleventyComputed:
+  hero:
+    title: "Hotkeys"
+---
+<style>
+    {% include "components/keyboard.css" %}
+</style>
+<style>
+    {% include "components/key-colours.css" %}
+</style>
+
+{{ content | safe }}

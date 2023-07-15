@@ -1,0 +1,6 @@
+{
+    "layout": "layouts/modlist.njk",
+    "tags": [
+        "modlist"
+    ]
+}

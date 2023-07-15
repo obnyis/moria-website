@@ -1,0 +1,15 @@
+---
+layout: layouts/main.njk
+eleventyComputed:
+  hero:
+    title: "Moria Mod list"
+---
+<style>
+  .background {
+    filter: brightness(80%);
+  }
+</style>
+
+{{ collections.modlist | eleventyNavigation | eleventyNavigationToHtml({ activeKey: eleventyNavigation.key, listClass: 'modlist-tab-list', activeListItemClass: 'modlist-tab-active' }) | safe }}
+
+{{ content | safe }}

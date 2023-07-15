@@ -1,0 +1,16 @@
+---
+layout: layouts/main.njk
+eleventyComputed:
+  hero:
+    title: "Downloads"
+    description: "Download Moria Modpack"
+---
+<style>
+  .background {
+    filter: brightness(80%);
+  }
+</style>
+
+{{ collections.download | eleventyNavigation | eleventyNavigationToHtml({ activeKey: eleventyNavigation.key, listClass: 'download-tab-list', activeListItemClass: 'download-tab-active' }) | safe }}
+
+{{ content | safe }}
