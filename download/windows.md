@@ -36,7 +36,7 @@ Minecraft will launch in a new window. Select "Multiplayer" and you will get a l
 
 * From Prism Launcher select "Add Instance" > Vanilla
 * Select Minecraft version `1.20.1`
-* Select Mod Loader "Quilt" `0.19.2-` (whatever the latest version is)
+* Select Mod Loader "Quilt" `0.20.0-` (whatever the latest version is)
 * Give the instance a name/group and click OK
 * Right click the instance and select "Edit..."
 * Go to "Mods" and manually add mods according to the [Mod List](/modlist)
