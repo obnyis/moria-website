@@ -15,7 +15,7 @@
     border-right: 0.75rem solid #36698b;
     border-left: 0.75rem solid #36698b;
     border-bottom: 0.75rem solid #25485f;
-    width: 1267px;
+    width: 1563px;
     margin-bottom: 30px;
 }
 
@@ -159,8 +159,8 @@
 .menukey,
 .key {
     position: relative;
-    width: 4rem;
-    height: 4rem;
+    width: 5rem;
+    height: 5rem;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -204,32 +204,32 @@
 }
 
 .key--2 {
-    width: 5.0625rem;
+    width: 6.328125rem;
 }
 
 .key--3 {
-    width: 6.125rem;
+    width: 7.65625rem;
 }
 
 .key--4 {
-    width: 7.1875rem;
+    width: 8.984375rem;
 }
 
 .key--5 {
-    width: 8.25rem;
+    width: 10.3125rem;
 }
 
 .key--6 {
-    width: 9.3125rem;
+    width: 11.640625rem;
 }
 
 .key--7 {
-    width: 11.4375rem;
+    width: 14.296875rem;
     margin-right: 0;
 }
 
 .key--8 {
-    width: 26.3125rem;
+    width: 32.890625rem;
 }
 
 .key--vert {
@@ -242,8 +242,8 @@
 }
 
 .key--vert.key--5 {
-    width: 4rem;
-    height: 8.25rem;
+    width: 5rem;
+    height: 10.3125rem;
 }
 
 .key--pressed {
