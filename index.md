@@ -25,8 +25,8 @@ hero:
       </div>
     </div>
     <div class="column">
-      <iframe src="https://creative-map.stealthwing.com" title="Map" height=480 width=640></iframe>
-      <!-- <iframe src="https://moria-map.stealthwing.com" title="Map" height=480 width=640></iframe> -->
+      <!-- <iframe src="https://creative-map.stealthwing.com" title="Map" height=480 width=640></iframe> -->
+      <iframe src="https://moria-map.stealthwing.com" title="Map" height=480 width=640></iframe>
     </div>
   </div>
 </div>
