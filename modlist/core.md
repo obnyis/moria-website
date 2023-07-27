@@ -24,7 +24,6 @@ eleventyNavigation:
 [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric)
 [Flat Bedrock](https://www.curseforge.com/minecraft/mc-mods/flat-bedrock)
 [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric)
-[Gravestones](https://modrinth.com/mod/gravestones)
 [Keep Head Names](https://modrinth.com/mod/keepheadnames)
 [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric)
 [Magnum Torch](https://www.curseforge.com/minecraft/mc-mods/magnum-torch-forge)
@@ -33,6 +32,7 @@ eleventyNavigation:
 [Schpeedy Boats](https://modrinth.com/mod/schpeedy-boats)
 [The Graveyard](https://modrinth.com/mod/the-graveyard-fabric)
 [Towns and Towers](https://modrinth.com/mod/towns-and-towers)
+[Universal Graves](https://modrinth.com/mod/universal-graves)
 [Waystones](https://modrinth.com/mod/waystones)
 [Wunderreich](https://modrinth.com/mod/wunderreich)
 
