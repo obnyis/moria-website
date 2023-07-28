@@ -1,0 +1,6 @@
+{
+    "layout": "layouts/minecraft.njk",
+    "tags": [
+        "crafting"
+    ]
+}

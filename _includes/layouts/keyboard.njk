@@ -4,11 +4,11 @@ eleventyComputed:
   hero:
     title: "Hotkeys"
 ---
-<style>
-    {% include "components/keyboard.css" %}
-</style>
-<style>
-    {% include "components/key-colours.css" %}
-</style>
+
+{%- set css %}
+{% include "components/keyboard.css" %}
+{% include "components/key-colours.css" %}
+{% endset %}
+<style>{{css | cssmin | safe}}</style>
 
 {{ content | safe }}
