@@ -25,7 +25,9 @@ eleventyNavigation:
 [JourneyMap Integration](https://modrinth.com/mod/journeymap-integration) **optional**
 [JourneyMap](https://modrinth.com/mod/journeymap) **optional**
 [Just Enough Items](https://modrinth.com/mod/jei) **optional**
+[Just Enough Effect Descriptions](https://modrinth.com/mod/just-enough-effect-descriptions-jeed) **optional**
 [Just Enough Professions](https://modrinth.com/mod/just-enough-professions-jep) **optional**
+[Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) **optional**
 [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) **optional**
 [Model Gap Fix](https://modrinth.com/mod/modelfix) **optional**
 [MoreChatHistory](https://modrinth.com/mod/morechathistory) **optional**

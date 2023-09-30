@@ -28,6 +28,7 @@ eleventyNavigation:
 [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric)
 [Magnum Torch](https://www.curseforge.com/minecraft/mc-mods/magnum-torch-forge)
 [Mob Lassos](https://modrinth.com/mod/mob-lassos)
+[Powah!](https://modrinth.com/mod/powah)
 [Quartz Elevator](https://www.curseforge.com/minecraft/mc-mods/quartz-elevator)
 [Schpeedy Boats](https://modrinth.com/mod/schpeedy-boats)
 [The Graveyard](https://modrinth.com/mod/the-graveyard-fabric)

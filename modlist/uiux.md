@@ -22,6 +22,7 @@ eleventyNavigation:
 [Mod Menu](https://modrinth.com/mod/modmenu)
 [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 [NoNarrator](https://modrinth.com/mod/nonarrator)
+[Reacharound](https://modrinth.com/mod/reacharound)
 
 </div>
 </div></div></div>
